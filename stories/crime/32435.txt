@@ -1,0 +1,242 @@
+### 9/11 PLUS 99 DAYS by XavierJets
+
+**Date Added:** 2014-12-10. **Please leave feedback using form at the end of the story!**   
+
+* * *
+
+**** Intro:** The outline and level-by-level description of a video/computer game based on the 9/11 attacks and their immediate aftermath. All levels are based on real events and true stories. 
+
+* * *
+
+**100 DAYS**
+
+100 Days would be a video/computer game taking place between September 11,
+2001 and December 19, 2001, essentially, 9/11 plus the first 99 days of its
+aftermath. The player would control ten diverse characters throughout ten
+separate missions based on real life scenarios encountered by people during
+the various disasters and tribulations of those 100 days. There would be three
+difficulty settings, sheep, citizen, and hero. As the difficulty is turned up
+more objectives are added, the characters take more damage from hazards,
+enemies require more punishment to neutralize, ammunition becomes scarce, the
+time allotted for missions is shortened, and more enemies and hazards are
+added to the level. The game would be played primarily in the third person
+view, with the option to switch between third and first person views.
+Completion of missions would be ranked on a scale taking into account
+difficulty, speed, damage taken, accuracy, enemies dispatched, and bonus
+objectives completed. Also, uniquely, the “skin” of the character for each
+level will change every time the player does the mission, encompassing all
+genders and ethnicities, thus both diversity and replay value is assured.
+Bonus missions are available and could be unlocked by beating the game on
+"citizen" and "hero" difficulty settings.
+
+**Mission #1:** _Escape from the North Tower, September 11, 2001_
+
+**Briefing:** As a Cantor Fitzgerald employee you are trapped above the smoldering impact zone inside the North Tower of the World Trade Center. You must escape in time before fire consumes your work floor, you suffer from fatal smoke inhalation or the building collapses upon itself.
+
+**Objectives:**
+
+\--Escape to safety by any means possible
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Rescue trapped co-workers
+
+\--Mark area for responding emergency personnel
+
+\--Evacuate wounded/disabled co-workers
+
+**Mission #2:** _Escape from the South Tower, September 11, 2001_
+
+**Briefing:** As an Aon Corporation employee you are trapped above the nigh impassable impact zone inside the South Tower of the World Trade Center. You must find a way to escape in time before the building collapses, fire overtakes your floor, or you suffer from fatal smoke inhalation.
+
+**Objectives:**
+
+\--Escape to safety by any means possible
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Rescue trapped co-workers
+
+\--Mark area for responding emergency personnel
+
+\--Evacuate wounded/disabled co-workers
+
+**Mission #3:** _Battle on board Flight 93, September 11, 2001_
+
+**Briefing:** As a passenger aboard the doomed United Airlines Flight 93 you must band together with your fellow travelers and re-take the plane from the four terrorists who’ve hijacked it. You know the fates of the other three hijacked planes already (all crashed with no survivors) and are determined to save your life and the lives of potentially hundreds or thousands of others on the ground. If you must go down, you vow to go down fighting.
+
+**Objectives:**
+
+\--Breach cockpit
+
+\--Incapacitate terrorists
+
+\--Re-take Flight 93
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Turn on transponder
+
+\--Radio position to ground control
+
+**Mission #4:** _Escape from the Pentagon, September 11, 2001_
+
+**Briefing:** As a worker in the Department of Defense within the plexus of the Pentagon, you must escape the hellish landscape of twisted metal and fire that the ground floor has become after a hijacked plane slammed into the side of the building at 500 miles an hour. You must escape before flames, smoke or imminent structural failure overtakes you.
+
+**Objectives:**
+
+\--Escape to safety by any means possible
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Rescue trapped co-workers
+
+\--Retrieve sensitive data
+
+\--Recover flight recorder
+
+**Mission #5:** _The Crash of Flight 587, November 12, 2001_
+
+**Briefing:** As an unsuspecting New York City citizen, you must fight to survive the nightmarish aftermath of the crash of American Airlines Flight 587 in your neighborhood while trying to save what you can and who you can.
+
+**Objectives:**
+
+\--Escape the crash site by any means possible
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Put out the house fire
+
+\--Rescue your trapped neighbors
+
+\--Mark area for responding emergency personnel
+
+**Mission #6:** _The War on Terror Begins, October 19, 2001_
+
+**Briefing:** As a US Army Special Forces soldier (a “Green Beret”) embedded with native Afghan Northern Alliance troops you must call in airstrikes, engage in firefights, and do all you can to re-take the cavernous valleys, mountains, and deserts of Afghanistan from Taliban and Al-Qaeda (AQ) forces. You are America’s first strike in the war on terror, the first avengers of the September 11th attacks, make it count.
+
+**Objectives:**
+
+\--Destroy a majority of the Taliban and AQ forces in the area
+
+\--Push forward at least 10km from the jump off point
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Minimize friendly casualties
+
+\--Capture enemy commander
+
+\--Disable all Taliban and AQ vehicles
+
+\--Neutralize all Taliban and AQ forces on the grid
+
+**Mission #7:** _Shawali Kowt Bridge, December 3, 2001_
+
+**Briefing:** As a US Air Force Combat Controller operating with a team of US Army “Green Berets” you must coordinate airstrikes upon the attacking Taliban and Al-Qaeda (AQ) forces. The “Green Berets” have just taken the town of Shawali Kowt after a fierce street-to-street battle, now Taliban and AQ forces are counterattacking over a bridge on the far side of the town. The bridge needs to remain standing, but the enemy must be pushed back. Use whatever means necessary to accomplish this.
+
+**Objectives:**
+
+\--Fight off the Taliban and AQ counterattack
+
+\--Preserve the Shawali Kowt Bridge
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Minimize friendly casualties
+
+\--Guide in all airstrikes on target
+
+\--Disable all Taliban and AQ vehicles
+
+\--Neutralize all Taliban and AQ forces on the grid
+
+**Mission #8:** _North Tower Rescue, September 11, 2001_
+
+**Briefing:** As a New York City firefighter you must rush to the freshly burning and smoking impact zone in the North Tower of the World Trade Center, helping who you can along the way. Your squad is the first on the scene, time is critical, the mission is dangerous, firefighters will die today.
+
+**Objectives:**
+
+\--Reach the North Tower impact zone
+
+\--Rescue trapped civilians in the target area
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Pry open jammed elevators
+
+\--Mark area for follow on waves of emergency personnel
+
+\--Put out office fires
+
+\--Save all trapped civilians in your path
+
+**Mission #9:** _South Tower Rescue, September 11, 2001_
+
+**Briefing:** As a Port Authority of New York and New Jersey officer you must charge into the blazing South Tower of the World Trade Center and work your way up the tower rescuing and evacuating as many civilians along the way as possible. Command and control has evaporated amidst the overwhelming radio traffic required for such a large rescue operation. It is all up to you now.
+
+**Objectives:**
+
+\--Work your way up the tower as far as possible in the time allotted
+
+\--Rescue trapped civilians in the target areas
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Mark area for follow on waves of emergency personnel
+
+\--Pry open jammed elevators
+
+\--Save all trapped civilians in your path
+
+**Mission #10:** _World Trade Center Leap of Faith, September 11, 2001_
+
+**Briefing:** As an employee trapped above the impassable impact zone of the North Tower of the World Trade Center, you faced two unpleasant choices, burn to death in a raging inferno of jetliner fuel or leap from the doomed tower to certain death on the concrete sidewalk below. With the flames closing in and many of your co-workers suffering from fatal smoke inhalation, you were among those who elected to jump. You’re now in the last ten seconds of your life on Earth as you fall from the building to the streets below, make them count. (Note: This level is to be done in slow motion, extending the 10 seconds out to 1 minute as the player falls).
+
+**Objectives:**
+
+\--Avoid falling on personnel below
+
+\--Dodge falling debris, office workers, glass, etc.
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Avoid falling on glass awnings
+
+\--Avoid falling on automobiles of any kind
+
+**Bonus Mission #1:**_ Ground Zero, September 11, 2001_
+
+**Briefing:** Miraculously, you (playing as an office worker, police officer or firefighter) have survived the collapse of the North Tower of the World Trade Center and now find yourself in a 16-acre version of hell on Earth that was the World Trade Center complex just 2 hours ago. Dust covered, bleeding, and alone now you must escape the carnage before you inhale too much pulverized glass or before the still raging fires overwhelm you. Escape as quickly as possible; your life depends on it.
+
+**Objectives:**
+
+\--Escape Ground Zero
+
+\--Inhale only a “safe” amount of pulverized glass and metal
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Rescue buried co-workers and emergency personnel
+
+\--Mark areas containing unreachable buried co-workers and emergency personnel
+for secondary wave of emergency personnel
+
+**Bonus Mission #2:** _Fortress of War, November 25, 2001_
+
+**Briefing:** You are a first wave “Green Beret,” a US Army Special Forces operator serving with the friendly Northern Alliance in Afghanistan responding to an armed uprising at local prison named the “fortress of war.” Housing 300 to 500 Taliban and Al-Qaeda prisoners, the facility was lightly staffed with two American CIA operatives and a handful of Northern Alliance guards. The prisoners overwhelmed them and now control the complex and its extensive armory. It is up to you and a small team of American and British special operators to re-take the complex and rescue any American and Northern Alliance forces still alive inside. You are authorized to use any means to accomplish this, small arms, heavy artillery, airstrikes, B-52 arc light missions, anything. This is the first serious setback of Operation Enduring Freedom.
+
+**Objectives:**
+
+\--Rescue the CIA operatives and Northern Alliance soldiers under fire
+
+\--Re-take a majority of the prison complex
+
+**Secondary objectives (optional on lower difficulty settings):**
+
+\--Re-take the prison completely
+
+\--Minimize friendly casualties
+
+\--Capture the American Taliban fighters
+
